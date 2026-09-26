@@ -1,6 +1,6 @@
 # Cognivo-Sharing · 元言代码分享镜像
 
-> **Mirror of WeChat public code snippets · 元言 / Yan Bo**
+> **Mirror of WeChat public code snippets · 元言·Cognivo 微信公众号**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## About This Repository
 
-This repository is a **mirror of code snippets shared publicly by the WeChat account "元言" (Yuan Yan / Yan Bo)**.
+This repository is a **mirror of code snippets shared publicly by the WeChat account "元言·Cognivo 微信公众号"**.
 
 Whenever a WeChat article requires publicly-shareable example code, a **desensitized, fully-runnable version** is published here — so readers can download, learn, and experiment.
 
@@ -85,7 +85,7 @@ MIT — 你可以自由使用、修改、再分发本仓库中的代码片段（
 
 ## 反馈与联系 · Feedback
 
-- **公众号**: 元言 / Yan Bo
+- **公众号**: 元言·Cognivo 微信公众号
 - **Issues**: GitHub Issues 即可（英文/中文均可）
 - **微信群 / Discord**: 见公众号文章末尾
 
